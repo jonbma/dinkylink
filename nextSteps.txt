@@ -1,8 +1,9 @@
 11/10/2013
 Next steps:
-	-Time Function (difficulty: 1)
-	-Start displaying times after now only (difficulty: 2)
+	-Time Function (difficulty: 1): to display how much time between now and the next train from Princeton or New York
+	-Start displaying times after now only (difficulty: 2): remove all values less than the current time. will require client side js as we can't do this from the server
 	-Color, jinja2 (difficulty: 2)
-	-dinkylink.info rather than dinkylinkversion2.appspot.com (difficulty: 1)
+	-dinkylink.info rather than dinkylinkversion2.appspot.com (difficulty: 1): need to create google app account
 	-Scrape once a day and that's all (difficulty: 1)
+	
 
